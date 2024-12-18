@@ -23,15 +23,12 @@ title: "Beyond the Spotlight : Analysing Key Drivers of Actors' Long-term Career
 description: >- # this means to ignore newlines until "baseurl:"
   Have you ever wondered what makes certain actors rise to **stardom** while others **disappear** into obscurity?
 url: "https://elboyer228.github.io"
-baseurl: ""
+baseurl: "/sigma_sitetest"
 
 github_username: elboyer228
 
 # Build settings
 remote_theme: hydecorp/hydejack@v9
-plugins:
-  - jekyll-feed
-
 plugins:
   - jekyll-feed
 
