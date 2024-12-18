@@ -22,11 +22,14 @@ title: "Beyond the Spotlight : Analysing Key Drivers of Actors' Long-term Career
 
 description: >- # this means to ignore newlines until "baseurl:"
   Have you ever wondered what makes certain actors rise to **stardom** while others **disappear** into obscurity?
-#url: "https://elboyer228.github.io"
-#baseurl: "/sigma_squad_site"
+url: "https://elboyer228.github.io"
+baseurl: "/sigma_squad_site"
 
-url: "http://127.0.0.1:4000"
-baseurl: ""
+
+
+# TO UNCOMMENT IF RUN LOCALLY 
+#url: "http://127.0.0.1:4000"
+#baseurl: ""
 
 
 github_username: elboyer228
