@@ -28,7 +28,9 @@ baseurl: "/"
 github_username: elboyer228
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
+plugins:
+  - jekyll-feed
 
 plugins:
   - jekyll-feed
