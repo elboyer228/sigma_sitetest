@@ -32,7 +32,6 @@ Since they had been paying close attention during their ADA lectures, they knew 
 
 <img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_revenue_distribution.png">
 
-<img src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_revenue_distribution.png" alt="Movie Revenue Distribution">
 
 Now, both profitability and revenue were neatly scaled from 0 to 10.
 
