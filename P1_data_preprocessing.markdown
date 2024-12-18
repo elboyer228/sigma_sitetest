@@ -31,7 +31,7 @@ As for Pol... He fell asleep after watching all five Pirates of the Caribbean mo
 
 
 
-<iframe src="/assets/plots/bar_plot.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://elboyer228.github.io/sigma_sitetest/assets/plots/bar_plot.html" width="100%" height="600" frameborder="0"></iframe>
 
 
 
