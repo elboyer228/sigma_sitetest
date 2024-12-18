@@ -24,14 +24,15 @@ Since they had been paying close attention during their ADA lectures, they knew 
 
 - For the **profitability factor**, Mathieu used the data on revenue and budget to calculate the ratio. However, even though Mathieu’s eyes sparkled at the sight of massive revenue numbers, he knew that to scale everything correctly from 0 to 10, he had to apply a log transformation. This smoothed out the extreme values caused by colossal blockbusters.
 
-<img  src="/assets/plots/responsive_histograms.png">
+<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/responsive_histograms.png">
 
 - For the **revenue factor**, Mael took charge:  
   *“Box office revenue is massive, but we log-transformed it too. Otherwise, Avatar would crush everything forever. This way, even low-budget hits look respectable.”*
 
 
-<img  src="/assets/plots/movie_revenue_distribution.png">
+<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_revenue_distribution.png">
 
+<img src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_revenue_distribution.png" alt="Movie Revenue Distribution">
 
 Now, both profitability and revenue were neatly scaled from 0 to 10.
 
@@ -41,7 +42,7 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
   *“Done and dusted. What a day!”* he exclaimed.
 
 
-<img  src="/assets/plots/movie_score_distribution.png">
+<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_score_distribution.png">
 
 
 
@@ -87,7 +88,7 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
 
   <!-- Image Column -->
   <div class="image-column">
-    <img src="/assets/plots/oscar_nominations_distribution.png" alt="Movie Score Distribution">
+    <img src="https://elboyer228.github.io/sigma_squad_site/assets/plots/oscar_nominations_distribution.png" alt="Movie Score Distribution">
   </div>
 </div>
 
