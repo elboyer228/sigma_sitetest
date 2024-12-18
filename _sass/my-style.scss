@@ -42,20 +42,23 @@ body.light-mode, body.dark-mode {
     --body-bg: #000000;
 }
 
+
+
 .sidebar-bg {
     background-color: #333 !important;
-    background-image: url('https://elboyer228.github.io/sigma_squad_site/assets/img/47031.jpg') !important;
+    background-image: url('/assets/img/47031.jpg') !important;
 }
 
 body {
-    background-image: url('https://elboyer228.github.io/sigma_squad_site/assets/img/spotlight3.png') !important;
-    background-size: cover; /* Ensures the image covers the entire background */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-attachment: fixed; /* Keeps the background static while scrolling */
-    --body-color: #ffffff; /* Make text color white */
-    --body-bg: #000000; /* Set a consistent background color */
+    background-image: url('/assets/img/spotlight3.png') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    --body-color: #ffffff;
+    --body-bg: #000000;
 }
+
 
 
 .logo {

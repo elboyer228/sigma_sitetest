@@ -34,3 +34,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 ## Hydejack theme ##
 gem "jekyll-theme-hydejack"
+
+gem "jekyll-remote-theme", "~> 0.4.3"

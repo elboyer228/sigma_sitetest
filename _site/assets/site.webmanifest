@@ -1,10 +1,10 @@
 {
-  "lang": "en",
+  
   "name": "Beyond the Spotlight : Analysing Key Drivers of Actors' Long-term Career Success",
   "short_name": "Beyond the Spotlight : Analysing Key Drivers of Actors' Long-term Career Success",
-  "description": "Have you ever wondered what makes certain actors rise to stardom while others disappear into obscurity?  In our data story, we unveil the hidden patterns and key factors driving long-term success in the film industry,from blockbuster movie traits to career-defining choices.  Join us as we explore the data behind Hollywood’s brightest stars and uncover what truly sets them apart.",
+  "description": "Have you ever wondered what makes certain actors rise to stardom while others disappear into obscurity?",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "rgb(25,55,71)",
+  "theme_color": "rgb(8,46,57)",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "minimal-ui",
