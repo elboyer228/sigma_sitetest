@@ -55,9 +55,9 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
 
 <div style="text-align: center; overflow: hidden;">
     <iframe 
-        src="{{ 'assets/plots/movie_score_distribution.html' | relative_url }}" 
+        src="{{ 'assets/plots/movie_reviews_distribution.html' | relative_url }}" 
         width="900px" 
-        height="300px" 
+        height="400px" 
         frameborder="0" 
         style="overflow: hidden; border: none;">
     </iframe>

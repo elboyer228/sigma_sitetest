@@ -51,7 +51,7 @@ Even though some questions remained, two main conclusions could be drawn:
 </iframe>
 </div>
 
-The height distribution plot told an interesting story about physical presence in Hollywood:
+The height distribution plot told an interesting story about physical presence in movies:
 
 - Male actors predominantly clustered between 1.7m and 1.9m, with a notable peak around 1.8m, suggesting a preference for taller male leads.
 - Female actors, on the other hand, formed a narrower range between 1.6m and 1.7m, aligning with traditional ideals of femininity portrayed in the industry.
