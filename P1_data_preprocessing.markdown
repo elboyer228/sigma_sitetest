@@ -30,11 +30,15 @@ On the other hand, Mathieu found a dataset containing information on 6,820 movie
 As for Pol... He fell asleep after watching all five Pirates of the Caribbean movies, totaling 12 hours and 9 minutes. In that time, he could have found a dataset!
 
 
-
-<iframe src="/assets/plots/bar_plot.html" width="100%" height="600" frameborder="0"></iframe>
-
-
-
+<div style="text-align: center;overflow: hidden;">
+<iframe 
+        src="{{ '/assets/plots/available_data.html' | relative_url }}" 
+        width="900px" 
+        height="400px" 
+        frameborder="0"
+        style="overflow: hidden; border: none;">
+</iframe>
+</div>
 
 
 ### Next : [let's build success index ! ]({{ '/success/' | relative_url }})
