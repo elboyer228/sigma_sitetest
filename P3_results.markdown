@@ -4,7 +4,7 @@ title: The final answer of how to be a successful actor !
 permalink: /results/
 ---
 
-The team—Pol, Mael, Elise, Aiden, and Mathieu—was nearing the end of their journey. They had cracked the Movie Success Index, but as they dove deeper into actor attributes, they uncovered fascinating trends in demographics, education, and career trajectories coming from they final data set  (check the git of the project here to gain more insights ! ). They were about to answer their final question.
+The team—Pol, Mael, Elise, Aiden, and Mathieu—was nearing the end of their journey. They had cracked the Movie Success Index, but as they dove deeper into actor attributes, they uncovered fascinating trends in demographics, education, and career trajectories coming from they final data set. They were about to answer their final question.
 
 **What are the key features for actor success ? Can we find anypattern or key insights that could help predict the success of actors ?**
 
