@@ -147,6 +147,14 @@ Aiden nodded, adding, :**“It’s encouraging to see those from less prestigiou
 
 This suggests that while attending a prestigious university provides a clear edge, individual talent, determination, and opportunities can still lead to success regardless of an actor’s alma mater.
 
+<div style="text-align: center;">
+<iframe 
+        src="{{ '/assets/plots/rank_fixed_vs_score.html' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        frameborder="0">
+</iframe>
+</div>
 
 ## US geographic perspective of success 
 
