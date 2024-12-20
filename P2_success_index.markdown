@@ -23,15 +23,28 @@ To settle the debate, the friends decided to design the **Movie Success Index**�
 Since they had been paying close attention during their ADA lectures, they knew that the data needed some transformation to make it both meaningful and usable.
 
 - For the **profitability factor**, Mathieu used the data on revenue and budget to calculate the ratio. However, even though Mathieu’s eyes sparkled at the sight of massive revenue numbers, he knew that to scale everything correctly from 0 to 10, he had to apply a log transformation. This smoothed out the extreme values caused by colossal blockbusters.
-
-<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/responsive_histograms.png">
+<div style="text-align: center;overflow: hidden;">
+<iframe 
+        src="{{ '/assets/plots/responsive_graph.html' | relative_url }}" 
+        width="900px" 
+        height="400px" 
+        frameborder="0"
+        style="overflow: hidden; border: none;">
+</iframe>
+</div>
 
 - For the **revenue factor**, Mael took charge:  
   *“Box office revenue is massive, but we log-transformed it too. Otherwise, Avatar would crush everything forever. This way, even low-budget hits look respectable.”*
 
-
-<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_revenue_distribution.png">
-
+<div style="text-align: center;overflow: hidden;">
+<iframe 
+        src="{{ '/assets/plots/movie_revenue_distribution.html' | relative_url }}" 
+        width="900px" 
+        height="400px" 
+        frameborder="0"
+        style="overflow: hidden; border: none;">
+</iframe>
+</div>
 
 Now, both profitability and revenue were neatly scaled from 0 to 10.
 
@@ -40,9 +53,15 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
 - Aiden, the IMDb enthusiast, happily handled the **reviews factor**, as ratings were already graded from 0 to 10.  
   *“Done and dusted. What a day!”* he exclaimed.
 
-
-<img  src="https://elboyer228.github.io/sigma_squad_site/assets/plots/movie_score_distribution.png">
-
+<div style="text-align: center; overflow: hidden;">
+    <iframe 
+        src="{{ '/assets/plots/movie_score_distribution.html' | relative_url }}" 
+        width="900px" 
+        height="300px" 
+        frameborder="0" 
+        style="overflow: hidden; border: none;">
+    </iframe>
+</div>
 
 
 <style>
@@ -87,7 +106,15 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
 
   <!-- Image Column -->
   <div class="image-column">
-    <img src="https://elboyer228.github.io/sigma_squad_site/assets/plots/oscar_nominations_distribution.png" alt="Movie Score Distribution">
+    <div style="overflow: hidden; transform: scale(0.8); width: 100%; height: 100%; display: flex; align-items: center;">
+      <iframe 
+          src="{{ '/assets/plots/oscar_nomination_distribution.html' | relative_url }}" 
+          width="650px" 
+          height="650px" 
+          frameborder="0" 
+          style="overflow: hidden;border: none;">
+      </iframe>
+    </div>
   </div>
 </div>
 
