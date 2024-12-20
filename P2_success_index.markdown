@@ -215,6 +215,6 @@ Using this index, they identified the **Top 5 Best Actors** and **Top 5 Worst Ac
 >
 > Meanwhile, Mathieu couldn’t hide his unease, noticing two of his favorite actors in the worst list and quietly questioning his cinematic preferences...
 
-### Next: [Unveiling the Path to Stardom – Insights on Becoming a Successful Actor]({{/results/| relative_url }})
+### Next: [Unveiling the Path to Stardom – Insights on Becoming a Successful Actor]({{'/results/'| relative_url }})
 
 TROUVER POURQUOI REDIRIGE PAS BONNE PAGE 
