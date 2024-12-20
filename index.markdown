@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Welcome to the Sigma Squad's Data Story !
 
 ...and how their dream of becoming successful actors was transformed into a data-driven journey to uncover the secrets of Hollywood stardom.
 
