@@ -108,7 +108,7 @@ Now, both profitability and revenue were neatly scaled from 0 to 10.
   <div class="image-column">
     <div style="overflow: hidden; transform: scale(0.8); width: 100%; height: 100%; display: flex; align-items: center;">
       <iframe 
-          src="{{ '/assets/plots/oscar_nomination_distribution.html' | relative_url }}" 
+          src="{{ '/assets/plots/oscar_nominations_distribution.html' | relative_url }}" 
           width="650px" 
           height="650px" 
           frameborder="0" 

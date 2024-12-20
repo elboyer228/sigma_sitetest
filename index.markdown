@@ -23,7 +23,7 @@ layout: home
   Mathieu, Maël, Aiden, Pol, and Elise are five friends who dream of fame, the big stage, the spotlight, and celebrity. During their university years, they attended data analysis courses, including the fascinating <a href="https://epfl-ada.github.io/teaching/fall2024/cs401/">Applied Data Analysis course</a> (taught by Professors Brbic and West —highly recommended, check it out!). Inspired by their newfound skills, they decided to leverage data-driven approaches to pursue their dreams in a smarter, more analytical way.
 </p>
 
-Your 5 sigma boys prefer and their github: 
+Your 5 favorites sigma boys and their GitHub.
 
 <div style="display: flex; justify-content: space-between; text-align: center;">
   <div><strong>Mael</strong><br><a href="https://github.com/maelstuder">@maelstuder</a></div>
