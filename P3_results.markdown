@@ -156,6 +156,14 @@ This suggests that while attending a prestigious university provides a clear edg
 </iframe>
 </div>
 
+But wait. What if there was something hidden in the data they hadn't found out yet? What about all those outliers on the 3000 rank line? Mael had a brilliant idea: he went back to his scraping algorithm and looked for the majors of those that went to unranked schools. Turns out, many of them majored in acting and drama! All that was left to do was treat them like those actors that went to specialised schools.
+
+After assigning the acting and drama schools a pseudo-rank of 1 and 50 respectively, the five friends were seeing a clearer picture:
+- **The Power of Drive:** those that had the motivation to pursue a career in acting or drama and dedicated their major to it tend to outscore their peers that did not. 
+- **Smart or Passionate:** while highly academic actors tend to score better than others, they are matched, if not beaten by those that pursued an acting or drama major, or went out of their way to join a prestigious school of cinematography or theater.
+
+Aiden nodded. :**"It does make sense if you think about it. They knew what they wanted and chose their uni accordingly. Maybe I signed up to the wrong major after all...":**
+
 ## US geographic perspective of success 
 
 <div style="text-align: center;">
