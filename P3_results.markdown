@@ -167,6 +167,8 @@ This suggests that while attending a prestigious university provides a clear edg
 </iframe>
 </div>
 
+The above map shows the mean success of actors from each state in the US. But the five friends were scratching their heads: This didn't tell them anything at all! None of the states really stood out at all... So they tried again.
+
 <div style="text-align: center;">
 <iframe 
         src="{{ '/assets/plots/state_vs_score.html' | relative_url }}" 
@@ -176,11 +178,15 @@ This suggests that while attending a prestigious university provides a clear edg
 </iframe>
 </div>
 
+This new map gave an average by randomly drawing a group of 5 actors over 1000 times and attributing their birth states scores.
 
-The map told a fascinating story:  
 
-- **Variability across states:** some states, particularly in the Midwest, show higher average success scores, while others in the South and West tend to score lower on average.  
+This new map told a fascinating story:  
+
+- **Variability across states:** some states, particularly in the Midwest and New England, show higher average success scores, while others in the South and West tend to score lower on average.  
 - **Cluster of success:** a few standout states consistently achieve higher average scores, suggesting regional influences on success rates in Hollywood.  
+- **The Case of California:** to her surprise, Elise, that had dreamed of her actor career in California, was shocked to see her favorite state score so low. The appeal of Hollywood seems to have many aspiring actors of Califronia reach for the stars, even those that maybe shouldn't have...
+- **The Heavyweights:** some states, like New York, New Jersey, Colorado, Washington and Utah seem to yield the most promising prospects for the Walk of Fame.
 
 
 These results led to a lively discussion among the group:  
