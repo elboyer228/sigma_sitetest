@@ -160,6 +160,15 @@ This suggests that while attending a prestigious university provides a clear edg
 
 <div style="text-align: center;">
 <iframe 
+        src="{{ '/assets/plots/prev_state_vs_score.html' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        frameborder="0">
+</iframe>
+</div>
+
+<div style="text-align: center;">
+<iframe 
         src="{{ '/assets/plots/state_vs_score.html' | relative_url }}" 
         width="100%" 
         height="600px" 
