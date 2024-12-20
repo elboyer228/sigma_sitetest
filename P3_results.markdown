@@ -173,7 +173,39 @@ Pol, ever the strategist, furrowed his brow. **“It’s not just about where ac
 Mathieu, the eternal optimist, leaned forward. **“But what about states with lower scores? Maybe they’re underrepresented because they lack the infrastructure to support aspiring actors. It doesn’t mean talent isn’t there.”**  
 
 
+# The numbers behind success: a statistical dive
 
 
+<div style="text-align: center; margin-bottom: 20px;">
+    <img 
+        src="{{ '/assets/plots/correlation.png' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        alt="Feature Correlation Heatmap"
+        style="border: 1px solid #ccc; padding: 10px;" />
+</div>
+
+
+The Sigma Squad's journey to uncover the secrets of success in the film industry culminated in this comprehensive correlation heatmap. It serves as the final data-driven map of relationships between various factors and their influence on actors' success. Here’s what they uncovered:
+
+1. **Height and Birth Year**: a moderate negative correlation between **height** and **birth year** suggests that taller individuals are slightly more prevalent among older generations of actors. Pol joked, "Maybe being tall was the superhero casting requirement back then!"
+
+2. **Age at First Release and Birth Year**: a strong negative correlation between **age at first release** and **birth year** reflects how younger actors tend to start their careers earlier in modern times, aligning with changing industry dynamics. Mathieu remarked, "It’s all about hitting the ground running these days."
+
+3. **Success Score Correlation**: surprisingly, the **success score** shows weak correlations with most features. This highlights that success is not dominated by a single attribute but is likely influenced by a blend of multiple factors and intangible qualities like talent and luck. Elise noted, "So success really is the sum of all parts—and a little bit of magic."
+
+4. **University Rankings**: a strong inverse relationship between **ranked universities** and **usable university rank** confirms that higher-ranked universities offer a slight edge in success. However, the weak correlation with success itself suggests that education helps but doesn’t guarantee stardom. Maël quipped, "Turns out, charisma beats calculus in Hollywood."
+
+5. **Specialized Schools**: among specialized schools, **drama schools** stand out with a slight positive correlation to success. Other schools, such as **acting** or **arts schools**, show no significant impact, emphasizing the value of focused dramatic training. Aiden added, "It looks like drama schools teach more than drama—they teach determination."
+
+6. **Number of Children**: a weak positive correlation between **number of children** and **success score** could hint at personal stability or life choices playing a role. Mathieu playfully speculated, "So having kids makes you grounded—literally and figuratively."
+
+
+
+
+As the team analyzed the data, it became clear that success in the film industry is a multifaceted and highly diverse phenomenon. While some trends emerge, like the benefits of drama schools or the importance of starting young, no single factor dominates. Success remains a mix of preparation, opportunity, and the ever-elusive element of luck.
+
+
+This heatmap and its analysis mark the final chapter of the Sigma Squad’s data journey. Aiden summarized it best, **"Our heatmap shows the threads of the story but not the entire tapestry. And that's what makes this journey so exciting—there's always more to discover!"**
 
 ### Next : [A conclusion from all these insights! ]({{ '/conclusion/' | relative_url }})
